@@ -22,9 +22,3 @@ Then open the provided `http://localhost:8080` URL.
 - Type a city name in the input and press **Get Weather** or Enter.
 - The app uses Open-Meteo's Geocoding API and Forecast API (no API key required).
 
-## Notes
-- This is a minimal demo intended for learning and quick testing.
-- If you plan to publish on GitHub Pages, this workspace is ready to push as-is.
-
-## License
-This project is unlicensed — add a license if you plan to publish it.
